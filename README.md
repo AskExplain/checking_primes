@@ -1,5 +1,5 @@
 # checking_primes
-A way to efficiently check if a number is prime or not prime
+A way to efficiently check if a number is prime or not prime via an analog-discrete computational workthrough.
 
 
 This involves "reverse" and "distributed" counting - and is quite simple. The easiest way to explain it is:
